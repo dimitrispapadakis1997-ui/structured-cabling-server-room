@@ -33,7 +33,13 @@ Photo documentation of a structured cabling project in a new-build server room: 
 ## My role
 
 <!-- TODO: fill in what YOU did, e.g. termination, labelling, rack assembly, testing -->
-- [Your tasks here]
+- Terminated Cat6 cables on patch panels and keystone jacks
+- Pulled and routed cable runs to the racks
+- Labelled cables and ports for identification
+- Installed and mounted patch panels, cable managers and PDUs in 19" racks
+- Dressed and bundled cables with cable ties for clean rack-side management
+- Tested cable links before handover
+- Assisted with UPS installation and rack power setup
 
 ## Tools & skills
 
