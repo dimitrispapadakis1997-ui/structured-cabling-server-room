@@ -16,12 +16,12 @@ Photo documentation of a structured cabling project in a new-build server room: 
 
 | Stage | Photo |
 |---|---|
-| Before: raw cable runs and unmounted racks | ![before](images/01-before-cable-pile.jpg) |
-| During: cables bundled and routed into the rack | ![bundles](images/06-cable-dressing-bundles.jpg) |
-| During: grey Cat6 patch panels being populated | ![grey panels](images/05-patch-panels-grey-cat6.jpg) |
-| After: patch panels with cable managers | ![front](images/02-cat6-patch-panels-front.jpg) |
-| After: patch panels with dual UPS at the base | ![ups](images/03-patch-panels-with-ups.jpg) |
-| Rear: dressed cable bundles and PDUs | ![rear](images/04-rear-cable-management.jpg) |
+| Before: raw cable runs and unmounted racks | ![before](01-before-cable-pile.jpg) |
+| During: cables bundled and routed into the rack | ![bundles](06-cable-dressing-bundles.jpg) |
+| During: grey Cat6 patch panels being populated | ![grey panels](05-patch-panels-grey-cat6.jpg) |
+| After: patch panels with cable managers | ![front](02-cat6-patch-panels-front.jpg) |
+| After: patch panels with dual UPS at the base | ![ups](03-patch-panels-with-ups.jpg) |
+| Rear: dressed cable bundles and PDUs | ![rear](04-rear-cable-management.jpg) |
 
 ## What this shows
 
@@ -32,7 +32,6 @@ Photo documentation of a structured cabling project in a new-build server room: 
 
 ## My role
 
-<!-- TODO: fill in what YOU did, e.g. termination, labelling, rack assembly, testing -->
 - Terminated Cat6 cables on patch panels and keystone jacks
 - Pulled and routed cable runs to the racks
 - Labelled cables and ports for identification
